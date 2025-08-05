@@ -73,7 +73,6 @@ Use case: Track consumer behavior, service frequency, and expenses for local bus
 ## 🔹 Education
 
 **Bachelor’s Degree in Computer Science**  
-(Year, College Name – Optional)
 
 ---
 
