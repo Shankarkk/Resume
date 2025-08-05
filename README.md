@@ -37,7 +37,7 @@ Use case: RFM segmentation, customer frequency tracking, and weekly/monthly tren
 - Integrated tests (`unique`, `not_null`, `expression_is_true`) for reliability.  
 - Maintained full GitHub-based version control and job orchestration.
 
-🔗 GitHub: [Customer Analytics Repo](https://github.com/Shankarkk/Customer_Analytics)
+🔗 GitHub: [E-commerce Analytics Project](https://github.com/Shankarkk/E-commerce_analytics_project)
 
 ---
 
