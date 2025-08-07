@@ -1,82 +1,50 @@
 # Shankar Kamalakannan  
-Freelance Snowflake + dbt Developer  
-📍 Kanchipuram | Available Immediately  
-📧 shankar.freelance.dataengineer@gmail.com  
-📞 +91-80566 30490  
-🔗 [LinkedIn](https://www.linkedin.com/in/shankarkk/) | [GitHub](https://github.com/Shankarkk)
+**Freelance Snowflake + dbt Developer | Data Engineer**  
+📧 Email: shankar.freelance.dataengineer@gmail.com  
+🔗 LinkedIn: [View Profile](https://linkedin.com/in/shankar-kamalakannan-kk)  
+🐙 GitHub: [Visit Repo](https://github.com/Shankarkk)  
+📍 Available: Freelance | Full-Time | Remote  
 
 ---
 
-## 🔹 Professional Summary
+## 💼 Professional Summary
 
-Freelance Snowflake + dbt Developer with 3+ years of independent, hands-on experience building production-grade data engineering pipelines. Strong expertise in Snowflake, dbt, ADF, AWS S3, and SQL-based transformations.
-
-Delivered self-driven real-time projects aligned to enterprise use cases like e-commerce analytics, mortgage post-sanction documentation, and local business intelligence dashboards. Capable of driving full ELT development cycles including CI/CD, schema testing, incremental model tuning, and deployment automation.
-
----
-
-## 🔹 Key Skills
-
-- **Cloud/Data Platforms**: Snowflake, Azure Data Factory, AWS S3  
-- **Transformation Tools**: dbt (Core & Cloud), SQL  
-- **Pipeline Orchestration**: Snowflake Tasks, Streams, Scheduling  
-- **Testing & Validation**: dbt Tests, schema.yml, dbt_utils  
-- **CI/CD**: GitHub, CLI automation, version control  
-- **Other**: Data modeling (dim/fact), JSON handling, project documentation
+Freelance Snowflake + dbt Developer with hands-on experience in building clean, production-grade ELT pipelines across business domains like e-commerce and mortgage tracking.  
+Skilled in Snowflake Streams, Tasks, dbt incremental models, CI/CD pipelines, and Git-based automation.  
+Known for building scalable, test-driven data solutions with clarity and business impact.
 
 ---
 
-## 🔹 Projects
+## 🛠️ Skills
 
-### 1. E-Commerce Customer Analytics – Freelance Project *(Jan 2024 – Present)*  
-Use case: RFM segmentation, customer frequency tracking, and weekly/monthly trend dashboards.
-
-- Built end-to-end ELT using Snowflake, dbt, SQL, and AWS S3.  
-- Created staging → intermediate → mart models with snapshot tracking.  
-- Implemented dbt incremental logic with merge strategy using `is_incremental()`.  
-- Integrated tests (`unique`, `not_null`, `expression_is_true`) for reliability.  
-- Maintained full GitHub-based version control and job orchestration.
-
-🔗 GitHub: [E-commerce Analytics Project](https://github.com/Shankarkk/E-commerce_analytics_project)
+- Snowflake, dbt (Data Build Tool), SQL, Python  
+- Git, GitHub Actions, CI/CD pipelines, dbt Cloud Jobs  
+- Snowflake Streams, Tasks, Views, Materialized Views  
+- Incremental models using `is_incremental()`, Jinja Macros  
+- Cloud tools: Amazon S3, Azure Data Factory (ADF)  
+- dbt Testing: `not_null`, `unique`, `relationships`
 
 ---
 
-### 2. Mortgage Post-Sanction Documentation Tracker – Freelance Project *(2023)*  
-Use case: Track missing/unverified mortgage documents after loan approval.
+## 📁 Projects
 
-- Designed Snowflake data model to capture post-sanction workflows.  
-- Used ADF to ingest document data into Snowflake staging layer.  
-- Developed dbt models to track missing, delayed, or duplicate KYC docs.  
-- Integrated email alerts + tests to highlight invalid documentation cases.
+### 🏗️ E-commerce Sales ELT with Snowflake + dbt
 
----
+- Designed full ELT pipeline using dbt (`staging → intermediate → mart`)  
+- Implemented incremental models using `is_incremental()`  
+- CI/CD through Git branching + automated with dbt Cloud Jobs and Snowflake Streams & Tasks  
+- 🔗 [GitHub Project Repo](https://github.com/Shankarkk/E-commerce_analytics_project)
 
-### 3. Business Insights – Tailoring & Parlour Tracker *(2023)*  
-Use case: Track consumer behavior, service frequency, and expenses for local business.
+### 🏦 Mortgage Document Tracker
 
-- Used Snowflake + dbt to calculate service popularity and monthly trends.  
-- Designed reports to show repeat vs. new customer metrics.  
-- Created dimension models with basic time and category filters.
+- Created domain-driven marts to track customer document verification status post-loan sanction  
+- Used dbt macros, Jinja logic, and ADF triggers for scheduled runs  
+- Applied dbt test coverage and built business visibility through ranking and alerting logic  
 
 ---
 
-## 🔹 Real-Time Learning Program
+## 🟢 Availability & Sharing
 
-**45-Day Job-Oriented Training (2024)**  
-- Snowflake: Tasks, Streams, Time Travel, Performance Tuning  
-- dbt: Incremental Models, Tests, CI/CD, Snapshots  
-- ADF + AWS S3 Integration for ELT pipelines  
-- Project-based exposure with GitHub deployment
-
----
-
-## 🔹 Education
-
-**Bachelor’s Degree in Computer Science**  
-
----
-
-## 🔹 Availability
-
-✅ Available to join immediately  
-✅ Open to full-time, contract, or remote freelance roles
+- ✅ Available to join immediately  
+- 📄 Project Snapshot PDF available on request  
+- 📂 GitHub walkthrough available if needed
