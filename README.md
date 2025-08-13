@@ -1,7 +1,7 @@
 # Shankar Kamalakannan  
 **Freelance Snowflake + dbt Developer | Data Engineer**  
 📧 Email: shankar.freelance.dataengineer@gmail.com  
-🔗 LinkedIn: [View Profile](https://tinyurl.com/Shankar-Linkedin-2025)
+🔗 LinkedIn: [View Profile](https://tinyurl.com/Shankar-Linkedin-2025) 
 🐙 GitHub: [Visit Repo](https://github.com/Shankarkk)  
 📍 Available: Freelance | Full-Time | Remote  
 
