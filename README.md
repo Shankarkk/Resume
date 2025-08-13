@@ -49,4 +49,4 @@ Known for building scalable, test-driven data solutions with clarity and busines
 - 📄 Project Snapshot PDF available on request  
 - 📂 GitHub walkthrough available if needed
 - 
-📧 Email: [shankar.freelance.dataengineer@gmail.com](mailto:shankar.freelanc
+📧 Email:. [shankar.freelance.dataengineer@gmail.com](mailto:shankar.freelance.dataengineer@gmail.com).
